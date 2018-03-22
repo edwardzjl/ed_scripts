@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: ed_scripts
+## Notes: Edward's scripts
+## Author: edwardlol
+## Version: 1.0
+## DefaultState:
+
+
+ed_scripts.lua
